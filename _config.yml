@@ -34,14 +34,17 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: John Ndirangu
-  email: ndirangu19john@gmail.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/mwangiJohnMj # change to your Twitter homepage
-    - https://github.com/itsmwangijohn # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ndirangumwangi
+  # Header / Footer Settings
+email: "ndirangu19john@gmail.com"
+
+# Social Links (Ensure these are indented by 2 spaces)
+social:
+  - title: twitter
+    url: https://twitter.com/mwangiJohnMj
+  - title: github
+    url: https://github.com/itsmwangijohn
+  - title: linkedin
+    url: https://www.linkedin.com/in/ndi
 
 # Site Verification Settings
 webmaster_verifications:
