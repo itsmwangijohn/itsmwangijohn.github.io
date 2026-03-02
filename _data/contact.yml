@@ -14,6 +14,7 @@
 - type: email
   icon: 'fas fa-envelope'
   url: 'mailto:ndirangu19john@gmail.com'
+  noblank: true  # <--- ADD THIS LINE
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
