@@ -38,13 +38,12 @@ social:
 email: "ndirangu19john@gmail.com"
 # Social Links (Ensure these are indented by 2 spaces)
 social:
-  - title: twitter
-   - https://twitter.com/mwangiJohnMj
-  - title: github
-   - https://github.com/itsmwangijohn
-  - title: linkedin
-   - https://www.linkedin.com/in/ndirangumwangi
-
+  name: "John Ndirangu"
+  email: "ndirangu19john@gmail.com"
+  links:
+    - https://twitter.com/mwangiJohnMj
+    - https://github.com/itsmwangijohn
+    - https://www.linkedin.com/in/ndirangumwangi
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
