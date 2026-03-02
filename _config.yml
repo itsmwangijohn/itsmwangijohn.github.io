@@ -37,13 +37,24 @@ social:
   # Header / Footer Settings
 email: "ndirangu19john@gmail.com"
 # Social Links (Ensure these are indented by 2 spaces)
-social:
-  name: "John Ndirangu"
-  email: "ndirangu19john@gmail.com"
-  links:
-    - https://twitter.com/mwangiJohnMj
-    - https://github.com/itsmwangijohn
-    - https://www.linkedin.com/in/ndirangumwangi
+# Social contact options
+# Values with a leading '#' will be disabled.
+
+- type: github
+  icon: 'fab fa-github'
+  url: 'https://github.com/itsmwangijohn'
+
+- type: twitter
+  icon: 'fab fa-twitter'
+  url: 'https://twitter.com/mwangiJohnMj'
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/ndirangumwangi'
+
+- type: email
+  icon: 'fas fa-envelope'
+  url: 'mailto:ndirangu19john@gmail.com'
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
