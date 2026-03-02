@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-John Mwangi | Security Analyst
+John Mwangi | Security Analyst.
 
 -Networking & Infrastructure: Experienced in designing and securing robust network architectures and monitoring traffic for anomalies.
 
