@@ -33,36 +33,28 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+title: "JOHN NDIRANGU"
+tagline: "Cyber Security Analyst | Pentester | CTF | Network Administrator"
+description: "Driven by a passion for proactive defense and threat hunting."
+url: "https://itsmwangijohn.github.io"
+baseurl: ""
+
+# Theme settings
+theme: jekyll-theme-chirpy
+lang: en
+timezone: Africa/Nairobi
+
+# Author info
+author:
   name: "John Ndirangu"
-  # Header / Footer Settings
-email: "ndirangu19john@gmail.com"
-# Social Links (Ensure these are indented by 2 spaces)
-# Social contact options
-# Values with a leading '#' will be disabled.
+  email: "ndirangu19john@gmail.com"
+  twitter: "mwangiJohnMj"
+  github: "itsmwangijohn"
 
-- type: github
-  icon: 'fab fa-github'
-  url: 'https://github.com/itsmwangijohn'
-
-- type: twitter
-  icon: 'fab fa-twitter'
-  url: 'https://twitter.com/mwangiJohnMj'
-
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url: 'https://www.linkedin.com/in/ndirangumwangi'
-
-- type: email
-  icon: 'fas fa-envelope'
-  url: 'mailto:ndirangu19john@gmail.com'
-# Site Verification Settings
-webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /posts/:title/
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
