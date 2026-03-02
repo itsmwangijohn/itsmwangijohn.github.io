@@ -1,4 +1,4 @@
-#  The contact options.
+# Social contact options
 - type: github
   icon: 'fab fa-github'
   url: 'https://github.com/itsmwangijohn'
@@ -14,7 +14,7 @@
 - type: email
   icon: 'fas fa-envelope'
   url: 'mailto:ndirangu19john@gmail.com'
-  noblank: true  # <--- ADD THIS LINE
+  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
