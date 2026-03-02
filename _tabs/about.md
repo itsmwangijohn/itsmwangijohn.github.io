@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-John Mwangi | Security Analyst.
+Hi, I'M John Mwangi | Security Analyst Networking Enthusiast.
+
 -Networking & Infrastructure: Experienced in designing and securing robust network architectures and monitoring traffic for anomalies.
 
 -Web Pentesting: Skilled in identifying and mitigating OWASP Top 10 vulnerabilities through rigorous offensive security testing.
